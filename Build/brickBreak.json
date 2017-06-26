@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "brickBreak.data.unityweb",
+"asmCodeUrl": "brickBreak.asm.code.unityweb",
+"asmMemoryUrl": "brickBreak.asm.memory.unityweb",
+"asmFrameworkUrl": "brickBreak.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
